@@ -1,0 +1,26 @@
+html {
+background-color: black;
+color: white;
+text-align: center;
+  font-family: serif;
+}
+a {
+color: violet;
+}
+img {
+max-width: 100%;
+}
+nav {
+text-align: left;
+}
+main {
+				text-align: center;
+}
+iframe {
+				max-width: 100%;
+				align: center;
+}
+
+footer {
+				text-align: center;
+}
