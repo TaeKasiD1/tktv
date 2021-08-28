@@ -10,9 +10,6 @@ color: violet;
 img {
 max-width: 100%;
 }
-nav {
-text-align: left;
-}
 main {
 				text-align: center;
 }
@@ -23,4 +20,11 @@ iframe {
 
 footer {
 				text-align: center;
+}
+main {
+  column-count: 2;
+column-gap: 40px;
+column-rule-style: solid;
+column-rule-width: 1px;
+column-width: 50%;
 }
